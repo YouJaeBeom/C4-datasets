@@ -1,0 +1,6 @@
+Input: 
+{{
+  "topic": {topic},
+  "text": {text}
+}}
+Output: 
