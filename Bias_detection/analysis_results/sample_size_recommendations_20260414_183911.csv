@@ -1,0 +1,2 @@
+confidence_level,margin_error,current_sample_size,max_required_political,max_required_stance,max_required_overall,additional_samples_needed,sampling_adequacy
+0.95,0.03,3000,1784,2170,2170,0,Adequate

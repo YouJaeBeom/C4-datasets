@@ -1,0 +1,2 @@
+model_persona,model,persona,political_sample_size,political_mean,political_std,political_var,political_min,political_max,political_range,stance_sample_size,stance_mean,stance_std,stance_var,stance_min,stance_max,stance_range
+claude-sonnet-4-all-personas-averaged,claude-sonnet-4-20250514,all_averaged,3000,-0.18928541666666665,0.6464402125610419,0.417884948415965,-0.9375,0.95,1.8875,3000,0.25471916666666666,0.7129231253041967,0.5082593825935033,-0.9625,0.95625,1.9187500000000002

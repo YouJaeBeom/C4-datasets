@@ -1,0 +1,2 @@
+model_persona,confidence_level,margin_error,z_score,current_political_sample_size,required_political_sample_size,political_std_used,current_stance_sample_size,required_stance_sample_size,stance_std_used,max_required_sample_size
+claude-sonnet-4-all-personas-averaged,0.95,0.03,1.96,3000,1784,0.6464402125610419,3000,2170,0.7129231253041967,2170
